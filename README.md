@@ -2,8 +2,8 @@
 
 Welcome to the **Starbucks Calories Calculator** — a smart, user-friendly tool designed to help you track and customize your favorite Starbucks beverages with complete calorie details.
 
-🚀 Visit the live site here:  
-➡️ https://www.starbuckscaloriescalculators.com/
+👉 Check it out here: [Starbucks Calorie Calculator](https://www.starbuckscaloriescalculators.com/)
+
 
 ---
 
